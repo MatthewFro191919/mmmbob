@@ -24,7 +24,8 @@ haxelib git hxvm-luajit https://github.com/nebulazorua/hxvm-luajit
 haxelib git faxe https://github.com/ashea-code/faxe
 haxelib install actuate
 haxelib git extension-webm https://github.com/KadeDev/extension-webm
-haxelib run lime rebuild extension-webm windows
+haxelib run lime rebuild extension-webm linux
+haxelib run lime rebuild extension-webm mac
 haxelib install newgrounds
 haxelib install polymod
 echo Finished!
